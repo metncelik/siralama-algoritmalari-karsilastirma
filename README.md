@@ -9,7 +9,10 @@
 
 
 ## • Sonuçlar
-Algoritmaların rastgele sayı adetine göre çalışma hızları (saniye):
+İşlemci: Intel Core i3-10110U @ 2.10GHz
+<p align="center">
+  Algoritmaların rastgele sayı adetine göre çalışma hızları (saniye):
+</p>
 <p align="center">
   <img src="https://github.com/metncelik/siralama-algoritmalari-karsilastirma/blob/main/Screenshots/tablo.bmp">
 </p>
