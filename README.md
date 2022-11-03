@@ -9,6 +9,7 @@
 
 
 ## • Sonuçlar
+Algoritmaların rastgele sayı adetine göre çalışma hızları (saniye):
 <p align="center">
   <img src="https://github.com/metncelik/siralama-algoritmalari-karsilastirma/blob/main/Screenshots/tablo.bmp">
 </p>
