@@ -1,4 +1,4 @@
-# Sıralama ALgoritmalarının Karşılaştırılması
+# Sıralama Algoritmalarının Karşılaştırılması
 
 ## • Kullanılan Algoritmalar
 * Bubble Sort (Kabarcık Sıralaması)
